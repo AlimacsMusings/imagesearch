@@ -1,0 +1,25 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "Free Code Camps Back end certificate project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlimacsMusings/imagesearch.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "A McGreavy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlimacsMusings/imagesearch/issues"
+  },
+  "homepage": "https://github.com/AlimacsMusings/imagesearch#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
