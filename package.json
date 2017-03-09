@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/AlimacsMusings/imagesearch#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "google-images": "^2.1.0",
+    "request": "^2.80.0",
+    "url": "^0.11.0"
   }
 }
